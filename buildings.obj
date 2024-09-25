@@ -1,0 +1,9 @@
+# This file was created by OSM2World 0.3.1 - http://osm2world.org
+
+# Projection information:
+# Coordinate origin (0,0,0): lat 52.52434745000002, lon 13.410622200000004, ele 0
+# North direction: (0.0, 0.0, -1.0)
+# 1 coordinate unit corresponds to roughly 1 m in reality
+
+mtllib buildings.obj.mtl
+
